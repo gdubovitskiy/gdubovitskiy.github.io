@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gdubovitskiy</title>
-    <link>http://localhost:1313/</link>
+    <link>https://gdubovitskiy.github.io/</link>
     <description>Recent content on gdubovitskiy</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Sun, 29 Jun 2025 13:08:52 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gdubovitskiy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Обо мне</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://gdubovitskiy.github.io/about/</link>
       <pubDate>Sun, 29 Jun 2025 13:08:52 +0300</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://gdubovitskiy.github.io/about/</guid>
       <description>&lt;p&gt;Team Lead Data Engineer в Ozon с глубокими знаниями и практикой в работе с современными технологиями обработки и анализа больших данных.&lt;/p&gt;&#xA;&lt;p&gt;Эксперт в проектировании и оптимизации высоконагруженных ETL/ELT процессов с использованием ClickHouse, Postgres, SQL Server (T-SQL) и Vertica. Уверенно работаю с системами очередей и сообщений Kafka и RabbitMQ, а также протоколом gRPC для организации эффективного взаимодействия микросервисов.&lt;/p&gt;&#xA;&lt;p&gt;Обладаю опытом работы с облачными хранилищами AWS S3 (туда же и MinIO), а также оркестрацией и автоматизацией потоков данных через Airflow. Знаком с Hadoop, DataHub/OpenMetadata и визуализацией данных с использованием SuperSet / Metabase. Владение Python, Docker, CI/CD и инструментами JupyterLab позволяет создавать масштабируемые, надежные и воспроизводимые решения в области Data Engineering.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Обратная связь</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://gdubovitskiy.github.io/contact/</link>
       <pubDate>Mon, 16 Jun 2025 01:28:20 +0300</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://gdubovitskiy.github.io/contact/</guid>
       <description>&lt;p&gt;Связаться со мной можно в телеграм - &lt;a href=&#34;https://t.me/gdubovitskiy&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@gdubovitskiy&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
